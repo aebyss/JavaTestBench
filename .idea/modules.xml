@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AbstractClass/AbstractClass.iml" filepath="$PROJECT_DIR$/AbstractClass/AbstractClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DynamicBinding/DynamicBinding.iml" filepath="$PROJECT_DIR$/DynamicBinding/DynamicBinding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DynamicBindingII/DynamicBindingII.iml" filepath="$PROJECT_DIR$/DynamicBindingII/DynamicBindingII.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DynamicBindingIII/DynamicBindingIII.iml" filepath="$PROJECT_DIR$/DynamicBindingIII/DynamicBindingIII.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DynamicBindingKlausur/DynamicBindingKlausur.iml" filepath="$PROJECT_DIR$/DynamicBindingKlausur/DynamicBindingKlausur.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DynamicBindingUbung/DynamicBindingUbung.iml" filepath="$PROJECT_DIR$/DynamicBindingUbung/DynamicBindingUbung.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exceptions/Exceptions.iml" filepath="$PROJECT_DIR$/Exceptions/Exceptions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Generics/Generics.iml" filepath="$PROJECT_DIR$/Generics/Generics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Interfaces/Interfaces.iml" filepath="$PROJECT_DIR$/Interfaces/Interfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KlausurVorbereitungGDP/KlausurVorbereitungGDP.iml" filepath="$PROJECT_DIR$/KlausurVorbereitungGDP/KlausurVorbereitungGDP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lambdas/Lambdas.iml" filepath="$PROJECT_DIR$/Lambdas/Lambdas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MainFalsch/MainFalsch.iml" filepath="$PROJECT_DIR$/MainFalsch/MainFalsch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProgKlausur/ProgKlausur.iml" filepath="$PROJECT_DIR$/ProgKlausur/ProgKlausur.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Rekursio/Rekursio.iml" filepath="$PROJECT_DIR$/Rekursio/Rekursio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Streams/Streams.iml" filepath="$PROJECT_DIR$/Streams/Streams.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestApp/TestApp.iml" filepath="$PROJECT_DIR$/TestApp/TestApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestBench.iml" filepath="$PROJECT_DIR$/TestBench.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThreadMaker/ThreadMaker.iml" filepath="$PROJECT_DIR$/ThreadMaker/ThreadMaker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThreadTesting/ThreadTesting.iml" filepath="$PROJECT_DIR$/ThreadTesting/ThreadTesting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Threads/Threads.iml" filepath="$PROJECT_DIR$/Threads/Threads.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThreadsMorgenstern/ThreadsMorgenstern.iml" filepath="$PROJECT_DIR$/ThreadsMorgenstern/ThreadsMorgenstern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThreadsSync/ThreadsSync.iml" filepath="$PROJECT_DIR$/ThreadsSync/ThreadsSync.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Vererbung/Vererbung.iml" filepath="$PROJECT_DIR$/Vererbung/Vererbung.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Wrapper/Wrapper.iml" filepath="$PROJECT_DIR$/Wrapper/Wrapper.iml" />
+    </modules>
+  </component>
+</project>
